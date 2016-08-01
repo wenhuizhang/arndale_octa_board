@@ -14,6 +14,8 @@ http://www.arndaleboard.org/wiki/index.php/O_WiKi#Host_Environment_for_Android
 
 http://git.insignal.co.kr/insignal/arndale_octa-jb_mr1.1/kernel/
 
+https://github.com/jefby/arndale_octa_devel/tree/master
+
 
 
 ## TrustZone HW:
