@@ -32,3 +32,11 @@ Link
 ```
 sudo ln -s /usr/lib/i386-linux-gnu/mesa/libGL.so.1 /usr/lib/i386-linux-gnu/libGL.so
 ```
+
+Change Java: should use java 6
+```
+sudo update-alternatives --config java
+
+sudo update-alternatives --config javac
+
+```
