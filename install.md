@@ -26,3 +26,9 @@ sudo apt-get install libxml2-utils
 sudo apt-get install xsltproc
 
 ```
+
+Link 
+
+```
+sudo ln -s /usr/lib/i386-linux-gnu/mesa/libGL.so.1 /usr/lib/i386-linux-gnu/libGL.so
+```
