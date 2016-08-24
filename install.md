@@ -40,3 +40,16 @@ sudo update-alternatives --config java
 sudo update-alternatives --config javac
 
 ```
+
+
+Image Locations
+
+```
+-rw-rw-r-- 1 wenhui wenhui 15360 Aug 23 22:10 /home/wenhui/Documents/arndale_octa_board_source/vendor/insignal/arndale_octa/exynos5420/arndale_octa.bl1.bin
+-rw-rw-r-- 1 wenhui wenhui 14592 Aug 23 22:10 /home/wenhui/Documents/arndale_octa_board_source/vendor/insignal/arndale_octa/exynos5420/arndale_octa.bl2.bin
+-rw-rw-r-- 1 wenhui wenhui 259160 Aug 23 17:21 /home/wenhui/Documents/arndale_octa_board_source/u-boot/u-boot.bin
+-rwxrwxr-x 1 wenhui wenhui 262144 Aug 23 22:10 /home/wenhui/Documents/arndale_octa_board_source/vendor/insignal/arndale_octa/exynos5420/arndale_octa.tzsw.bin
+-rwxrwxr-x 1 wenhui wenhui 4125568 Aug 23 22:51 /home/wenhui/Documents/arndale_octa_board_source/kernel/arch/arm/boot/zImage
+-rw-rw-r-- 1 wenhui wenhui 184366 Aug 23 22:51 /home/wenhui/Documents/arndale_octa_board_source/out/target/product/arndale_octa/ramdisk.img.ub
+
+```
